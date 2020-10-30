@@ -1,8 +1,6 @@
 # Tech-Blog
 
-> This repository consists code for the technical blogsite that was created while learning TypeScript
-
-Please follow the [guidelines](#codes--redistribution) to build upon our work.
+> This repository consists code that was created while learning TypeScript
 
 
 ### Setup
@@ -28,24 +26,6 @@ Compile using
 
 
 
-[@punyakpdeshmukh:](https://github.com/punyakpdeshmukh)
-[![LinkedIn][2.2]][4]
-
-[1.2]: https://user-images.githubusercontent.com/26264600/88994487-151cad00-d31b-11ea-8795-da01dd1f29d7.png
-[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
-
-[4]: https://www.linkedin.com/in/punyak-deshmukh-3433b2185/
-
-
-[@ritik-sharma38:](https://github.com/ritik-sharma38)
-[![LinkedIn][2.2]][3]
-
-[1.2]: https://user-images.githubusercontent.com/26264600/88994487-151cad00-d31b-11ea-8795-da01dd1f29d7.png
-[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
-
-[3]: https://www.linkedin.com/in/ritik-sharma-633703184/
-
-
 [@shivanishimpi:](https://github.com/shivanishimpi)
 [![Twitter][1.2]][1]
 [![LinkedIn][2.2]][2]
@@ -56,6 +36,16 @@ Compile using
 [1]: https://twitter.com/ShimpiShivani
 [2]: https://www.linkedin.com/in/shivani-shimpi-5113a8170/
 
+
+
+
+[@ritik-sharma38:](https://github.com/ritik-sharma38)
+[![LinkedIn][2.2]][3]
+
+[1.2]: https://user-images.githubusercontent.com/26264600/88994487-151cad00-d31b-11ea-8795-da01dd1f29d7.png
+[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
+
+[3]: https://www.linkedin.com/in/ritik-sharma-633703184/
 
 
 
