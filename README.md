@@ -1,4 +1,4 @@
-# Tech-Blog
+# typescript
 
 > This repository consists code that was created while learning TypeScript
 
