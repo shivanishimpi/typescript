@@ -1,0 +1,23 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "> This repository consists code for the technical blogsite that was created while learning TypeScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punyakpdeshmukh/Tech-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "2.5.4"
+  },
+  "bugs": {
+    "url": "https://github.com/punyakpdeshmukh/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/punyakpdeshmukh/Tech-Blog#readme"
+}
