@@ -9,5 +9,6 @@ function combine(input1, input2) {
     }
     return result;
 }
-console.log(combine(20, 503));
+console.log(combine(30, 503));
 console.log(combine("Sunshine", "Cookie"));
+console.log(combine("30", "05"));
