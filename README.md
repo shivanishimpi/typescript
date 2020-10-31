@@ -19,8 +19,8 @@ For watch mode
 - On single files `tsc filename.ts --watch` or `tsc filename.ts -w` 
 
 - On the entire project \
-`tsc --init`\
-`tsc -w`
+`tsc --init \
+tsc -w`
  
 ### Technology and Tools
 
