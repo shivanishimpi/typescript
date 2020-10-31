@@ -6,7 +6,7 @@
 Install [NodeJs](https://nodejs.org/en/)
 
 Installing typescript
-`npm install -g typescript`
+```npm install -g typescript```
 
 Local Hosting 
 `npm start`
@@ -15,7 +15,12 @@ Compile using
 `tsc filename.ts` 
 
 For watch mode
-`tsc filename.ts --watch` or `tsc filename.ts -w` 
+
+On single files `tsc filename.ts --watch` or `tsc filename.ts -w` 
+
+On the entire project 
+`tsc --init
+tsc -w`
  
 ### Technology and Tools
 
@@ -36,8 +41,6 @@ For watch mode
 
 [1]: https://twitter.com/ShimpiShivani
 [2]: https://www.linkedin.com/in/shivani-shimpi-5113a8170/
-
-
 
 
 
