@@ -1,6 +1,6 @@
 # typescript
 
-> This repository consists code that was created while learning TypeScript
+> This repository consists of the program files created while learning TypeScript
 
 ### Setup
 Install [NodeJs](https://nodejs.org/en/)
@@ -9,7 +9,7 @@ Installing typescript
  `npm install -g typescript`
 
 Compile using 
- `tsc filename.ts`
+ `tsc filename.ts` 
  
 ### Technology and Tools
 
@@ -18,9 +18,8 @@ Compile using
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5a4fcf)
 
-### Contributors
 
-
+### Reach out
 
 [@shivanishimpi:](https://github.com/shivanishimpi)
 [![Twitter][1.2]][1]
@@ -32,16 +31,6 @@ Compile using
 [1]: https://twitter.com/ShimpiShivani
 [2]: https://www.linkedin.com/in/shivani-shimpi-5113a8170/
 
-
-
-
-[@ritik-sharma38:](https://github.com/ritik-sharma38)
-[![LinkedIn][2.2]][3]
-
-[1.2]: https://user-images.githubusercontent.com/26264600/88994487-151cad00-d31b-11ea-8795-da01dd1f29d7.png
-[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
-
-[3]: https://www.linkedin.com/in/ritik-sharma-633703184/
 
 
 
