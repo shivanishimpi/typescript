@@ -21,6 +21,6 @@ function combine(input1: numStr, input2: numStr, resultConversion: numTex) {
   */
   return result;
 }
-console.log(combine(30, 05, "as-number"));
+console.log(combine(30, 5, "as-number"));
 console.log(combine("Sunshine", "Cookie", "as-text"));
 console.log(combine("30", "05", "as-number"));
