@@ -68,5 +68,14 @@
   },
   "exclude": [
     "**/*.bas.ts","basics-types"
-  ]
+  ],
+  /* for folders and files
+  "include": [
+    "app.ts",
+    "analytics.ts"
+  ], */
+  /* only for files not folders
+  "files": [
+    "app.ts"
+  ]*/
 }
