@@ -8,12 +8,14 @@ Install [NodeJs](https://nodejs.org/en/)
 Installing typescript
 `npm install -g typescript`
 
-Local Host
+Local Hosting 
 `npm start`
 
 Compile using
-`tsc filename.ts` or 
-`tsc filename.ts -w` to avoid recompiling
+`tsc filename.ts` 
+
+For watch mode
+`tsc filename.ts --watch` or `tsc filename.ts -w` 
  
 ### Technology and Tools
 
